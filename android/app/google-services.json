@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936584405831",
+    "project_id": "bloodpro-c403b",
+    "storage_bucket": "bloodpro-c403b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936584405831:android:18008a124cde1c81ffa262",
+        "android_client_info": {
+          "package_name": "com.example.blood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAF98F_b3-E1Xa5C25cmyrpXntZLl_zKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
