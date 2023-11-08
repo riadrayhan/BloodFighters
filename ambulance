@@ -1,0 +1,106 @@
+[{
+		"id": "1",
+		"name": "Ad-Din Women's Hospital Ambulance",
+		"location": "Dhaka",
+		"number": "09612345666",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "1"
+	},
+	{
+		"id": "2",
+		"name": "Care Hospital Ambulance",
+		"location": "Dhaka",
+		"number": "01733588337",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "3",
+		"name": "Best Care Ambulance",
+		"location": "Dhaka",
+		"number": "01911008118",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "1"
+	},
+	{
+		"id": "4",
+		"name": "Shikder ambulance service",
+		"location": "Dhaka",
+		"number": "01775211989",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "5",
+		"name": "Sasthya Seba Ambulance",
+		"location": "Dhaka",
+		"number": "01405600700",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "1"
+	},
+	{
+		"id": "6",
+		"name": "24 Hours ambulance service",
+		"location": "Dhaka",
+		"number": "01911125156",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "7",
+		"name": "AL-MARKAZUL ISLAMI AMBULANCE SERVICE",
+		"location": "Shyamoli Road,Dhaka",
+		"number": "01720-275123",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "8",
+		"name": "ALIF AMBULANCE SERVICE",
+		"location": "West Panthapath,Dhaka",
+		"number": "01819253777",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "9",
+		"name": "AD-DIN WOMEN’S MEDICAL COLLEGE",
+		"location": "Bara Maghbazar,Dhaka",
+		"number": "029121381",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "10",
+		"name": "ANJUMAN-E-MOFIDUL ISLAM DHAKA",
+		"location": "Kakrail,Dhaka",
+		"number": "029336611",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "11",
+		"name": "BAGERHAT SADAR HOSPITA",
+		"location": "Bagerhat,khulna",
+		"number": "01714663378",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "12",
+		"name": "CENTRAL HOSPITAL AMBULANCE",
+		"location": "Dhanmondi, Dhaka",
+		"number": "029660015",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	},
+	{
+		"id": "13",
+		"name": "ALLAH-ER-DAAN AMBULANCE SERVICE",
+		"location": "Dhaka",
+		"number": "01712010075",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymBhqYNXPvO9-R5LKFXyKfNSnEY1ckjGySQ&usqp=CAU",
+		"sub_des": "0"
+	}
+
+]
