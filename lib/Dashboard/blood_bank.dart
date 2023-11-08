@@ -15,7 +15,7 @@ class _Blood_BankState extends State<Blood_Bank> {
 
   List<dynamic>posts=[];
   Future<void>fetchData()async{
-    final response=await get(Uri.parse("https://raw.githubusercontent.com/riadrayhan/BloodFighter/origin/blood_bank"));
+    final response=await get(Uri.parse("https://raw.githubusercontent.com/riadrayhan/BloodFighters/master/blood_bank"));
     if(response.statusCode==200){
       setState((){
         posts=json.decode(response.body);

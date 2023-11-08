@@ -15,7 +15,7 @@ class _AmbulanceState extends State<Ambulance> {
 
   List<dynamic>posts=[];
   Future<void>fetchData()async{
-    final response=await get(Uri.parse("https://raw.githubusercontent.com/riadrayhan/BloodFighter/origin/ambulance"));
+    final response=await get(Uri.parse("https://raw.githubusercontent.com/riadrayhan/BloodFighters/master/ambulance"));
     if(response.statusCode==200){
       setState((){
         posts=json.decode(response.body);
