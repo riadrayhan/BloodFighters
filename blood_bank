@@ -1,0 +1,186 @@
+[{
+		"id": "1",
+		"name": "Islami Bank Hospital Blood Bank",
+		"location": "Gulshan,Dhaka",
+		"number": "8321495",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "1"
+	},
+	{
+		"id": "2",
+		"name": "Quantum Blood Bank",
+		"location": "Shantinagar,Dhaka",
+		"number": "01714010869",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "3",
+		"name": "Red Crescent Blood Bank",
+		"location": "Green road,Dhaka",
+		"number": "01811458524",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "1"
+	},
+	{
+		"id": "4",
+		"name": "Shandhani BloodBank",
+		"location": "Dhaka Medical College Branch",
+		"number": "9668690",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "5",
+		"name": "Sir Salimullah College Blood Bank",
+		"location": "salimulla road,Dhaka",
+		"number": "7319123",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "1"
+	},
+	{
+		"id": "6",
+		"name": "Badhan BloodBank",
+		"location": "Central Office,University of Dhaka",
+		"number": "01534-982674",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "7",
+		"name": "Thalassemia Blood Bank",
+		"location": "30 Chamelibag,1st Lane,Dhaka",
+		"number": "0 2 8332481",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "8",
+		"name": "Alif Blood Bank & Transfusion Center",
+		"location": "West Panthapath,Dhaka",
+		"number": "01913-059375",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "9",
+		"name": "ক্রিয়েটিভ ব্লাড ব্যাংক এন্ড ট্রান্সফিউশন সেন্টার",
+		"location": "Dhanmondi,Dhaka",
+		"number": "01772-829082",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "10",
+		"name": "Bangladesh Blood Bank and Transfusion Center",
+		"location": "khilkhet,Dhaka",
+		"number": "01850-077185",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "11",
+		"name": "Cure Home General Hospital Private Limited",
+		"location": "North Side of Pakiza Mills, Savar, Dhaka",
+		"number": "01924101369",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "12",
+		"name": "Ibn Sina Diagnostic And Consultation Center",
+		"location": " Hatlane, Doyagonj, Dhaka",
+		"number": "01817144609",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "12",
+		"name": "Ashiyan Medical College",
+		"location": "Barua, Dhaka",
+		"number": "01841133503",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "14",
+		"name": "Holy Family Red Crescent Medical College",
+		"location": " Road-Eskaton Garden Road, Moghbazar, Dhaka",
+		"number": "88029353031",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "15",
+		"name": "Famous Blood Bank And Diagnostic Center",
+		"location": "Humayan Road, College Gate, Dhaka",
+		"number": "01723363644",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "16",
+		"name": "The Diagnosis Blood Bank And Pathology",
+		"location": "Mirpur Road Dholphin Goli, Lake Circus, Dhaka",
+		"number": "01770294496",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "17",
+		"name": "Savar Central Hospital Limited",
+		"location": "Savar Thana Bus Stop, Savar Thana, Dhaka",
+		"number": "01922998804",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "18",
+		"name": "Police Blood Bank",
+		"location": "Central Police Hospital, Rajarbag, Dhaka",
+		"number": " 01713-398386",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "19",
+		"name": "Oriental Blood bank",
+		"location": "Green Road, Dhanmondi, Dhaka",
+		"number": "01812700053",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "20",
+		"name": "Mukti Blood Bank & Pathology Lab",
+		"location": "Bir-Uttam A.M.Shafiullah Road,Dhaka",
+		"number": " +880 2-8624249",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "21",
+		"name": "Bangladesh Medical College Unit",
+		"location": "Dhaka",
+		"number": "0152371531",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "22",
+		"name": "Famous Blood Bank And Diagnostic Center",
+		"location": "Humayan Road, College Gate, Dhaka",
+		"number": "01723363644",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	},
+	{
+		"id": "23",
+		"name": "Famous Blood Bank And Diagnostic Center",
+		"location": "Humayan Road, College Gate, Dhaka",
+		"number": "01723363644",
+		"imageurl": "https://daktarbhai.com/assets/img/directory/blood-bank-dir.png",
+		"sub_des": "0"
+	}
+
+]
